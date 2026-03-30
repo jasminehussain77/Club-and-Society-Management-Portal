@@ -1,4 +1,6 @@
 Club & Society Management Portal
+
+
 About the Project
 This project is a web-based system developed to manage clubs and societies in a university. It helps in handling club creation, event management, announcements, and student participation in a simple and organized way.
 
