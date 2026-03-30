@@ -45,7 +45,7 @@ Make sure you have the following installed on your system:
 ## How to Run the Project
 
 1. Download or clone this repository:
-   git clone https://github.com/manishimage79997-bot/club-society-management-portal.git
+   git clone https://github.com/jasminehussain77/Club-and-Society-Management-Portal
 
 2. Move the project folder into the "htdocs" folder (if using XAMPP)
 
