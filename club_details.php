@@ -9,7 +9,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] != "ADMIN") {
     exit();
 }
 
-$pdo = new PDO("mysql:host=localhost;dbname=club_portal;charset=utf8","root","");
+$pdo = new PDO("mysql:host=localhost;dbname=club_portal;charset=utf8","root","123456");
 
 // Validate club_id
 $club_id = isset($_GET['club_id']) ? intval($_GET['club_id']) : 0;

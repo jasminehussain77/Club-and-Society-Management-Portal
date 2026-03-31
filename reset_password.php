@@ -2,7 +2,7 @@
 session_start();
 
 // DB connection
-$conn = new mysqli("localhost", "root", "", "club_portal");
+$conn = new mysqli("localhost", "root", "123456", "club_portal");
 
 $message = "";
 

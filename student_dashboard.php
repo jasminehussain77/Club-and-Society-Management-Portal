@@ -19,7 +19,7 @@ if ($_SESSION['role'] != "STUDENT" && !$preview) {
 $host = "localhost";
 $dbname = "club_portal";
 $user = "root";
-$pass = "";
+$pass = "123456";
 
 $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $user, $pass);
 
